@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Enliven",
+    "sdkVersion": "37.0.0",
+    "slug": "Enliven",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
