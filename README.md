@@ -14,9 +14,11 @@ expo
 $ cd Enliven-master
 $ expo start 
 ```
-# Technologies
+# Technology Stack
 * Expo CLI 3.18.2
 * React Native 0.62
+* Parsehub
+* VisualStudiocode
 
 # Authors
 * Mimansa Pandey
