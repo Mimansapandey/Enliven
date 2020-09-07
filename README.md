@@ -1,6 +1,6 @@
 # Enliven
 # General info
-A React Native job listing project with live updates on current job listings around the country.
+A React Native job listing project with current job listings across the country.
 
 # Prerequisities
 ```
