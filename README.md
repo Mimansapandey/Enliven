@@ -1,6 +1,6 @@
 # Enliven
 # General info
-A React Native job listing project with current job listings across the country.
+A React Native job listing project with geo specific job listings targeted to assist nation wide minimum wage workers.
 
 # Prerequisities
 ```
